@@ -1,0 +1,7 @@
+.login {
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 41 59 / var(--tw-bg-opacity));
+  margin-left: 20%;
+  margin-top: 15%;
+  margin-right: 20%;
+}

@@ -1,0 +1,19 @@
+.pro {
+  height: 100vh;
+  align-items: center;
+  /* padding-right: 20rem; */
+  /* padding-left: 20rem; */
+}
+
+.left-link {
+  padding-bottom: 10rem;
+}
+
+h1 {
+  margin-left: 0px;
+  /* margin-top: 20rem; */
+}
+
+span {
+  color: red;
+}
